@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+
+   * {
+            margin: 0px;
+            padding: 0px;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            width: 100%;
+        }
+
+        a {
+            display: block;
+            background-color: red;
+            font-weight: bolder;
+            text-align: center;
+            padding: 20px;
+            color: bisque;
+            width: 215px;
+            
+        }
+
